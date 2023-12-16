@@ -1,5 +1,8 @@
 # Ruby Projects
+
 A repo where I put all resources inside of it, regarding my journey with Ruby.
+
+![Ruby](repo/ruby-thumbnail.png)
 
 ## Projects
 
@@ -24,6 +27,12 @@ A todo list program that takes a text input from the user and adds it to a list,
 This is a simple REST API that uses the `sinatra` gem to create a simple API that returns a JSON response.
 
 Test file: [tester.rb](easy-rest-api/tester.rb)
+
+### [Simple Malware](simple-malware/main.rb)
+
+Just a very fun and simple way of flooding the desktop with folders.
+
+This was created to get familiar with the Ruby API for Windows (File API).
 
 ## Author
 
