@@ -36,7 +36,7 @@ This was created to get familiar with the Ruby API for Windows (File API).
 
 ### [Blog](blog/README.md)
 
-A blog written with the framework `Ruby on Rails`. Started Developpm
+A blog written with the framework `Ruby on Rails`. Started Development on 21.04.2024.
 
 ## Author
 
