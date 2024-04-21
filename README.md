@@ -34,6 +34,10 @@ Just a very fun and simple way of flooding the desktop with folders.
 
 This was created to get familiar with the Ruby API for Windows (File API).
 
+### [Blog](blog/README.md)
+
+A blog written with the framework `Ruby on Rails`. Started Developpm
+
 ## Author
 
-👤 [**Sami Hindi**](https://www.samihindi.com)
+👤 [**FujiwaraChoki**](https://www.github.com/FujiwaraChoki)
